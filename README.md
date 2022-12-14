@@ -1,2 +1,2 @@
 # zdjavapol127-git
-This is comment that should be placed here.
+This is comment that should be placed here. Something else
